@@ -1,5 +1,5 @@
 # Python_FinancialAnalysis
-
+This project shows how Python is utilized to analyze financial and poll data.
 
 
 ## Skills Performed
@@ -13,3 +13,5 @@ This project shows the following skills: <br><br>
 *Write data from Python into CSV files.<br>
 *Create and use Python dictionaries.<br>
 *Read data in from a dictionary.<br>
+
+## Deployment
