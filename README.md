@@ -15,3 +15,5 @@ This project shows the following skills: <br><br>
 *Read data in from a dictionary.<br>
 
 ## Deployment
+1. Clone repository.
+2. Run Python files separately. 
