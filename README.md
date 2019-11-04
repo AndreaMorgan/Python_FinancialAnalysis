@@ -11,5 +11,5 @@ This project shows the following skills: <br><br>
 *Begin to understand programming concepts in Python.<br>
 *Read data into Python from CSV files.<br>
 *Write data from Python into CSV files.<br>
-*Create and use Python dictionaries.
-*Read data in from a dictionary.
+*Create and use Python dictionaries.<br>
+*Read data in from a dictionary.<br>
