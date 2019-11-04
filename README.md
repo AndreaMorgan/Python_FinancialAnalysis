@@ -6,7 +6,7 @@
 
 This project shows the following skills: <br><br>
 
-*Connect to a SQL database using SQLAlchemy.
+*Connect to a SQL database using SQLAlchemy.<br>
 *Perform basic SQL queries using engine.execute().
 *Create Python classes and objects.
 *Create, read, update, and delete data from a SQL database using SQLAlchemy's ORM.
